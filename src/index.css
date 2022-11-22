@@ -180,11 +180,17 @@ body {
     margin: 0 auto;
   }
 
-  .index-page,#lateral {
+  .index-page,
+  #lateral {
     max-width: 50%;
     position: relative;
   }
 
-  
+  .index-page {
+    float: left;
+  }
 
+  #lateral {
+    float: right;
+  }
 }
