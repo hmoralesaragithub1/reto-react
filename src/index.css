@@ -182,7 +182,7 @@ body {
 
   .index-page,#lateral {
     max-width: 50%;
-    position: absolute;
+    position: relative;
   }
 
   
