@@ -10,7 +10,7 @@ const IndexPage = () => {
         <Header />
         <Content />
       </div>
-      <div id="lateral">barra</div>
+      
     </div>
   );
 };

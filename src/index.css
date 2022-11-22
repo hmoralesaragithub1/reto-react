@@ -151,13 +151,6 @@ body {
   display: none;
 }
 
-#main-div {
-  display: flex;
-}
-
-#lateral {
-  background-color: #fff8;
-}
 
 /*Media Query*/
 @media screen and (max-width: 768px) {
