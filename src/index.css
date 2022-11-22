@@ -151,12 +151,10 @@ body {
   display: none;
 }
 
-
 /*Media Query*/
 @media screen and (max-width: 768px) {
   #menu-container {
     flex-wrap: nowrap;
-    gap: initial;
   }
 
   #btn-mobile {
@@ -170,20 +168,6 @@ body {
 
   .container-content {
     font-size: 70px;
-    margin: 0 auto;
   }
 
-  .index-page,
-  #lateral {
-    max-width: 50%;
-    position: relative;
-  }
-
-  .index-page {
-    float: left;
-  }
-
-  #lateral {
-    float: right;
-  }
 }
