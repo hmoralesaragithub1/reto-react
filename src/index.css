@@ -152,7 +152,7 @@ body {
 }
 
 #main-div {
-  position: relative;
+  display: flex;
 }
 
 #lateral {
